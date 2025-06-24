@@ -32,3 +32,5 @@ To understand how Linear Regression works in a basic ML model using:
 - Predictions are made for unknown study hours
 
 ## 💻 Output Example
+![Output](https://github.com/user-attachments/assets/c2ef534c-cd29-4bae-b313-6906ce098cb4)
+
